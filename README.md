@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Asingura-Philip
+# 👨‍🔧 Hi there, I'm Asingura-Philip!  
 - 👀 I’m interested in Javascript , Embedded systems and robotics
 - 🌱 I’m currently learning Software engineering in Javascript
-- 💞️ I’m looking to collaborate on Js projects
+- 🔥 I’m looking to collaborate on Js projects
 
 
 ---
